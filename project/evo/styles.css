@@ -20,6 +20,8 @@ body {
   transition: 0.2s transform ease-in-out;
   will-change: transform;
   z-index: 1;
+  width: fit-content;
+  align-self: center;
   
 }
 

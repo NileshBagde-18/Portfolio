@@ -5619,7 +5619,9 @@ body {
     .columns-5 {
         position: relative;
     }
-
+    .socialicons {
+    padding: 6px;
+    }
     .skill-link {
         -webkit-transform: none;
         -ms-transform: none;

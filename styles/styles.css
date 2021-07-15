@@ -3704,6 +3704,20 @@ body {
     padding-bottom: 20px;
     padding-left: 247px;
 }
+.image-x {
+    position: static;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+}
+.image-x2 {
+    position: static;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+}
 
 .image-23 {
     margin-right: 50px;

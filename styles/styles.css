@@ -6,6 +6,28 @@ html {
 body {
     margin: 0;
 }
+.image-46 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: 0%;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 20px;
+}
+
+.image-47 {
+  position: absolute;
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  margin-top: auto;
+  margin-right: 20px;
+  margin-bottom: auto;
+}
+
 .coolBeans {
   margin-top: 10px;
   border: 2px solid currentColor;
